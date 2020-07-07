@@ -24,7 +24,7 @@ h1, h2{
 header img{
 	border-radius: 150px;
 	width: 270px;
-	border: 10px solid #483a94;
+	border: 10px solid #D4BB9C;
 }
 
 main{
@@ -45,6 +45,10 @@ h2{
 
 a{
 	color: #66697F;
+	text-decoration: underline;
+	text-underline-offset: 5px;
+	text-decoration-thickness: 3px;
+	text-decoration-color: #990000;
 }
 
 a:hover{
